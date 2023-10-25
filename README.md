@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Eliadegabriel/Eliadegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ????
+- 😄 Pronouns🐬
+- ⚡ Fun fact: o termo "durma bem" vem de antigamente de quando as canas eram cordas de algodão amarradas, quando mais amarrado melhor era, além de a frase completa ser "durma bem, e cuidado com os Persevejos"
+
